@@ -213,8 +213,8 @@ const laravel = {
     id:24,
     name: 'Laravel',
     info: 'Laravel is a free, open-source PHP web framework.',
-    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg',
-    logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg',
+    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg',
+    logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg',
     link: 'https://laravel.com/'
 }
 
