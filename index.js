@@ -413,7 +413,7 @@ const tradingCorp = {
     description: 'Embark on a journey of financial success with Trading Corp. Whether you are a day trader, institutional investor, or somewhere in between, our comprehensive solutions are tailored to meet your unique needs. Explore the possibilities, mitigate risks, and seize opportunities',
     img: './assets/images/trading-corp.png',
     alt: 'tradingCorp project picture',
-    link: 'https://trading-corp.vercel.app/',
+    link: 'https://trading-corp-kodjo-matthieu-senous-projects.vercel.app/',
     source: 'https://github.com/Matthieu96Code/trading-corp',
     technologies: [nextjs, tailwindcss],
     technologies2: [
